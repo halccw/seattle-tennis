@@ -11,6 +11,7 @@ courts=(
 ["360"]="Lower Woodland Playfield Tennis Court 08"
 ["361"]="Lower Woodland Playfield Tennis Court 09"
 ["362"]="Lower Woodland Playfield Tennis Court 10"
+["1344"]="Gilman Playfield Tennis Court 01"
 )
 
 url="https://anc.apm.activecommunities.com/seattle/rest/reservation/resource/reservationtimegroup?locale=en-US"
